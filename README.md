@@ -1,5 +1,5 @@
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=saarimrahman&count_private=true&show_icons=True&theme=dark">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=saarimrahman&count_private=true&show_icons=True&theme=dark"> -->
 
 ### Hi, I’m Saarim!
 
