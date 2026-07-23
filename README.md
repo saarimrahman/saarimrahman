@@ -1,4 +1,4 @@
-<h1 align="center">Saarim Rahman</h1>
+<h1 align="center">Hi, I'm Saarim</h1>
 
 <p align="center">
   <a href="https://saarim.me">website</a> &nbsp;·&nbsp;
