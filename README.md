@@ -10,7 +10,7 @@
   <a href="https://open.spotify.com/user/aaysus">spotify</a>
 </p>
 
-### Projects
+### Repos
 
 | Project | Description |
 |---|---|
@@ -22,11 +22,23 @@
 | [Coping with NP-Completeness](https://github.com/saarimrahman/np-completeness) | Assigns students to rooms via integer linear programming. |
 | [Supervised Isolation Forest](https://github.com/saarimrahman/sif) | Extends Isolation Forest with label-guided, supervised tree splitting. |
 | [RL on Augmented Data](https://github.com/vshirsat/RL_Rand_Augmentation) | Implemented novel cutout augmentation variants and ran RAD experiments. |
+
+### Apps ([saarim.app](https://saarim.app))
+
+**AI tools**
+
+| Tool | Description |
+|---|---|
 | [Saarim Chat](https://saarim.app/sr-ai) | Chats with Saarim and his resume via AI. |
 | [AI Twitter User Chat](https://saarim.app/twitter-chat) | Chats with an AI version of any Twitter account. |
 | [AI Resume Builder](https://saarim.app/resume) | Edits a LaTeX resume live with AI. |
 | [LLM Prompt Helper](https://saarim.app/prompt-helper) | Generates and improves prompts for LLMs. |
 | [Carti Translator](https://saarim.app/cartinese) | Converts anything to Cartinese. |
+
+**Spotify tools**
+
+| Tool | Description |
+|---|---|
 | [Playlist DNA](https://saarim.app/playlist-analysis) | Analyzes genre, top artists, and diversity of a playlist. |
 | [Count Artist Tracks](https://saarim.app/count-artists) | Counts songs per artist in a playlist. |
 | [Remove Duplicates](https://saarim.app/find-duplicates) | Finds and removes duplicate songs in a playlist. |
@@ -35,6 +47,11 @@
 | [Find Concerts](https://saarim.app/find-events) | Finds concerts for artists in your playlist. |
 | [Create Set Playlist](https://saarim.app/set-playlist) | Converts a DJ set tracklist into a playlist. |
 | [Create DJ Sets Playlist](https://saarim.app/dj-sets-playlist) | Builds a playlist from artists' recent live sets. |
+
+**Misc utilities**
+
+| Tool | Description |
+|---|---|
 | [Bill Splitter](https://saarim.app/bill-splitter) | Splits a bill by parsing a receipt with AI. |
 | [Poker Trainer](https://saarim.app/poker-trainer) | Drills optimal Texas Hold'em preflop starting hands. |
 | [Codenames](https://saarim.app/codenames) | Plays Codenames online with an AI spymaster. |
