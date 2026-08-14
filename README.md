@@ -14,15 +14,14 @@
 
 | Project | Description |
 |---|---|
-| [RGB LED Panel Controller](https://github.com/saarimrahman/rpi-rgb-led-matrix-controller) | Flask web app to remotely control RGB LED panels on a Raspberry Pi. Upload and queue media, generate scrolling text, and capture photos and video live to display. |
-| [FIRE Monte Carlo Simulator](https://github.com/saarimrahman/fire-simulator) | Monte Carlo simulator for Financial Independence, Retire Early. Models income, savings, housing, taxes, and market randomness across thousands of runs. [Live app](https://fire-monte-carlo-sim.streamlit.app/). |
-| [Agent Orchestration](https://github.com/saarimrahman/agent-orchestration) | A local to-do list that coding agents can read, claim, and report progress to, with a web board you can watch. One SQLite file, a CLI and SDK for agents. |
-| [iMessage Viewer](https://github.com/saarimrahman/imessage-viewer) | Local viewer for macOS Messages. Reads `chat.db` and Contacts directly from disk and serves a search index on `127.0.0.1` only. |
-| [DNN Ensembling](https://github.com/csinva/dnn-ensemble) | Research project on ensembled neural networks and how they transfer better than single models. Built with csinva. |
-| [Coping with NP-Completeness](https://github.com/saarimrahman/np-completeness) | UC Berkeley CS 170 project that solves an NP-complete optimization problem by formulating it as an integer linear program. |
-| [Supervised Isolation Forest](https://github.com/saarimrahman/sif) | Fork of the Extended Isolation Forest library, adapted to use labels for anomaly detection. |
-| [RL on Augmented Data](https://github.com/vshirsat/RL_Rand_Augmentation) | Research project that uses random cutout augmentation to improve generalization in reinforcement learning agents. Built with vshirsat. |
-| [UMAPs True Loss](https://github.com/saarimrahman/UMAPs-true-loss) | Fork of a research repo studying the true loss function behind UMAP dimensionality reduction. |
+| [RGB LED Panel Controller](https://github.com/saarimrahman/rpi-rgb-led-matrix-controller) | Controls RGB LED panels from a web browser. |
+| [FIRE Monte Carlo Simulator](https://github.com/saarimrahman/fire-simulator) | Simulates FIRE age via Monte Carlo modeling. [Live app](https://saarim.app/fire), also on [Streamlit](https://fire-monte-carlo-sim.streamlit.app/). |
+| [Agent Orchestration](https://github.com/saarimrahman/agent-orchestration) | Local task queue with claim, lease, and memory tools. |
+| [iMessage Viewer](https://github.com/saarimrahman/imessage-viewer) | Browses and searches local iMessage history with contact stats. |
+| [DNN Ensembling](https://github.com/csinva/dnn-ensemble) | Built a notebook that analyzes and ensembles pretrained ImageNet models. |
+| [Coping with NP-Completeness](https://github.com/saarimrahman/np-completeness) | Assigns students to rooms via integer linear programming. |
+| [Supervised Isolation Forest](https://github.com/saarimrahman/sif) | Extends Isolation Forest with label-guided, supervised tree splitting. |
+| [RL on Augmented Data](https://github.com/vshirsat/RL_Rand_Augmentation) | Implemented novel cutout augmentation variants and ran RAD experiments. |
 
 ### Apps ([saarim.app](https://saarim.app))
 
