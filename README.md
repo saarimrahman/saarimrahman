@@ -10,7 +10,8 @@
   <a href="https://open.spotify.com/user/aaysus">spotify</a>
 </p>
 
-### Repos
+<details>
+<summary><h3 style="display:inline">Repos</h3></summary>
 
 | Project | Description |
 |---|---|
@@ -23,7 +24,10 @@
 | [Supervised Isolation Forest](https://github.com/saarimrahman/sif) | Extends Isolation Forest with label-guided, supervised tree splitting. |
 | [RL on Augmented Data](https://github.com/vshirsat/RL_Rand_Augmentation) | Implemented novel cutout augmentation variants and ran RAD experiments. |
 
-### Apps ([saarim.app](https://saarim.app))
+</details>
+
+<details>
+<summary><h3 style="display:inline">Apps (saarim.app)</h3></summary>
 
 **AI tools**
 
@@ -58,3 +62,5 @@
 | [Crime Map](https://saarim.app/crime-map) | Maps reported crime risk in SF and NYC. |
 | [Departure Planner](https://saarim.app/departure) | Times subway departure using the MTA realtime feed. |
 | [Tweet Ranker](https://saarim.app/twitter) | Sorts tweets by popularity across Twitter handles. |
+
+</details>
