@@ -23,11 +23,9 @@
 | [Coping with NP-Completeness](https://github.com/saarimrahman/np-completeness) | Assigns students to rooms via integer linear programming. |
 | [Supervised Isolation Forest](https://github.com/saarimrahman/sif) | Extends Isolation Forest with label-guided, supervised tree splitting. |
 | [RL on Augmented Data](https://github.com/vshirsat/RL_Rand_Augmentation) | Implemented novel cutout augmentation variants and ran RAD experiments. |
-
 </details>
-
 <details>
-<summary><h3 style="display:inline">Apps (saarim.app)</h3></summary>
+<summary><h3 style="display:inline">Apps</h3></summary>
 
 **AI tools**
 
